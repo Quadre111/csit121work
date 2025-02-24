@@ -1,0 +1,34 @@
+body {          
+  font-family: Arial,sans-serif;    
+  background-color: aqua;
+}
+
+
+h1 {  
+  color:blue; 
+}
+
+p {  
+    font: 200;
+    font-size: 20px;
+    color: black;
+}
+
+h2 { 
+    color: darkorange;
+}
+h3 { 
+    color: darkorange;
+}
+#alert { 
+
+    background-color: darkgrey;
+    color: black;
+
+}
+
+.highlight { 
+
+    font-weight: bold;
+    background-color: black;
+}
